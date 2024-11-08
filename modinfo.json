@@ -8,27 +8,11 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
   },
   {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
     "name": "TMPLoader",
     "author": "A Haunted Army",
     "version": "1.0.2",
     "git_path": "AHauntedArmy/TMPLoader",
     "group": "Libraries",
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
-  },
-  {
-    "name": "Utilla",
-    "author": "Bobbie",
-    "version": "1.6.14",
-    "git_path": "legoandmars/Utilla",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
   }
 ]
