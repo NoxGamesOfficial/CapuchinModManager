@@ -3,9 +3,9 @@
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "6.0.0",
-    "git_path": "BepInEx/BepInEx",
+    "git_path": "NoxGamesOfficial/BepInExCapuchin",
     "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip"
+    "download_url": "https://github.com/NoxGamesOfficial/BepInExCapuchin/releases/download/Release/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2INTEROPFIX.rar"
   },
   {
     "name": "Caputilla",
