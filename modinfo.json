@@ -2,9 +2,17 @@
   {
     "name": "BepInEx",
     "author": "BepInEx Team",
-    "version": "5.4.23.2",
+    "version": "6.0.0",
     "git_path": "BepInEx/BepInEx",
     "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip"
+  },
+  {
+    "name": "Caputilla",
+    "author": "Monky",
+    "version": "1.0.0,
+    "git_path": "MonkyGT/Caputilla",
+    "group": "Libraries",
+    "download_url": "https://github.com/MonkyGT/Caputilla/releases/download/1.1.2/Caputilla.dll"
   }
 ]
