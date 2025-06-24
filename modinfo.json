@@ -24,6 +24,38 @@
     "download_url": "https://github.com/HanSolo1OOOFalcon/Capu-Tags/releases/download/1.0.0/CapuTags.dll"
   },
   {
+    "name": "NoMoreLoadingScreen",
+    "author": "biotest05",
+    "version": "1.0.0",
+    "git_path": "biotest052/NoMoreLoadingScreen",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/biotest052/NoMoreLoadingScreen/releases/download/1.0.0/NoMoreLoadingScreen.dll"
+  },
+  {
+    "name": "Fly",
+    "author": "Instel12",
+    "version": "1.0.0",
+    "git_path": "Instel12/Capuchin-Fly",
+    "group": "Mods",
+    "download_url": "https://github.com/Instel12/Capuchin-Fly/releases/download/1.0.0/Fly.dll"
+  },
+  {
+    "name": "InitManager",
+    "author": "HanSolo1OOOFalcon",
+    "version": "1.0.0",
+    "git_path": "HanSolo1OOOFalcon/InitManager",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/HanSolo1OOOFalcon/InitManager/releases/download/v1.0.0/InitManager.dll"
+  },
+  {
+    "name": "Capuchin Size Changer",
+    "author": "HanSolo1OOOFalcon",
+    "version": "1.1.0",
+    "git_path": "Instel12/Capuchin-Size-Changer",
+    "group": "Mods",
+    "download_url": "https://github.com/Instel12/Capuchin-Size-Changer/releases/download/1.1.0/size.changer.dll"
+  },
+  {
     "name": "Music Controls",
     "author": "HanSolo",
     "version": "1.0.0",
