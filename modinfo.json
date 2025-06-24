@@ -14,5 +14,37 @@
     "git_path": "MonkyGT/Caputilla",
     "group": "Libraries",
     "download_url": "https://github.com/MonkyGT/Caputilla/releases/download/1.1.2/Caputilla.dll"
+  },
+  {
+    "name": "CapuTags",
+    "author": "HanSolo",
+    "version": "1.0.0",
+    "git_path": "HanSolo1OOOFalcon/Capu-Tags",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1OOOFalcon/Capu-Tags/releases/download/1.0.0/CapuTags.dll"
+  },
+  {
+    "name": "Music Controls",
+    "author": "HanSolo",
+    "version": "1.0.0",
+    "git_path": "HanSolo1OOOFalcon/MusicControlsCapuchin",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1OOOFalcon/MusicControlsCapuchin/releases/download/1.0.0/MusicControlsCapuchin.dll"
+  },
+  {
+    "name": "Banapuchin",
+    "author": "HanSolo",
+    "version": "1.0.0",
+    "git_path": "HanSolo1OOOFalcon/Banapuchin",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1OOOFalcon/Banapuchin/releases/download/1.0.2/Banapuchin.dll"
+  },
+  {
+    "name": "Photograph Device Modification",
+    "author": "HanSolo",
+    "version": "1.0.0",
+    "git_path": "HanSolo1OOOFalcon/Photograph-Device-Modification",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1OOOFalcon/Photograph-Device-Modification/releases/download/v1.0.0/PhotographDeviceModification.dll"
   }
 ]
