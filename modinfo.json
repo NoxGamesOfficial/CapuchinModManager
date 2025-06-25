@@ -24,6 +24,14 @@
     "download_url": "https://github.com/HanSolo1OOOFalcon/Capu-Tags/releases/download/v1.0.1/CapuTags.dll"
   },
   {
+    "name": "No Capu Barrier",
+    "author": "baggZ-idk",
+    "version": "1.0.0",
+    "git_path": "baggZ-idk/No-Barrier",
+    "group": "Mods",
+    "download_url": "https://github.com/baggZ-idk/No-Barrier/releases/download/tag/NoBarrier.dll"
+  },
+  {
     "name": "NoMoreLoadingScreen",
     "author": "biotest05",
     "version": "1.0.0",
