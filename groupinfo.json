@@ -16,7 +16,11 @@
     "rank" : 3
   },
   {
-    "name" : "Libraries",
+    "name" : "MelonLoader",
     "rank" : 4
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 5
   }
 ]
