@@ -16,6 +16,14 @@
     "download_url": "https://github.com/MonkyGT/Caputilla/releases/download/1.1.2/Caputilla.dll"
   },
   {
+    "name": "Caputilla (Melon Loader)",
+    "author": "Monky",
+    "version": "1.0.0",
+    "git_path": "MonkyGT/Caputilla-MelonLoader",
+    "group": "MelonLoader",
+    "download_url": "https://github.com/HanSolo1OOOFalcon/Caputilla-MelonLoader/releases/download/v1.0.0/CaputillaMelonLoader.dll"
+  },
+  {
     "name": "CapuTags",
     "author": "HanSolo",
     "version": "1.0.1",
